@@ -10,3 +10,5 @@
 
 - [Linkedin](https://www.linkedin.com/in/acruzmtz/)
 - [YouTube](https://www.youtube.com/bccomputeroficial)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=acruzmtz)](https://github.com/anuraghazra/github-readme-stats)
